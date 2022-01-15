@@ -1,5 +1,3 @@
-
-
 while(1):
     try:
         N=int(input("Enter no of chocalate\t"))
